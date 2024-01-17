@@ -1,0 +1,46 @@
+html {
+  background: url("img/math.webp") no-repeat center fixed;
+  background-size: cover;
+}
+
+body {
+  margin: 70px auto;
+  width: 600px;
+  padding: 0px 0px;
+  font-family: Georgia, "Times New Roman", Times, serif;
+  background-color: rgb(233, 187, 227);
+  text-align: center;
+  border-radius: 25px;
+  padding-bottom: 10px;
+  border: 2px solid rgb(102, 36, 102);
+}
+
+h1 {
+  font-size: 42px;
+  font-variant: small-caps;
+  color: white;
+}
+
+div {
+  background-color: rgb(102, 36, 102);
+  color: white;
+  padding: 20px 0;
+  border-radius: 25px 25px 0 0;
+  text-align: center;
+}
+
+button {
+  padding: 10px 15px;
+  border: 2px solid rgb(102, 36, 102);
+  background: rgb(233, 187, 227);
+  border-radius: 20px;
+  font-variant: small-caps;
+  cursor: pointer;
+}
+
+input {
+  padding: 3px;
+  width: 75px;
+  font-size: 24px;
+  text-align: center;
+}
